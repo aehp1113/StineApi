@@ -1,0 +1,17 @@
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/bin/Release/net5.0/Infrastructure.Shared.deps.json
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/bin/Release/net5.0/Infrastructure.Shared.dll
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/bin/Release/net5.0/ref/Infrastructure.Shared.dll
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/bin/Release/net5.0/Infrastructure.Shared.pdb
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/bin/Release/net5.0/Application.dll
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/bin/Release/net5.0/Domain.dll
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/bin/Release/net5.0/Application.pdb
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/bin/Release/net5.0/Domain.pdb
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/Infrastructure.Shared.csproj.AssemblyReference.cache
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/Infrastructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/Infrastructure.Shared.AssemblyInfoInputs.cache
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/Infrastructure.Shared.AssemblyInfo.cs
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/Infrastructure.Shared.csproj.CoreCompileInputs.cache
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/Infrastructure.Shared.csproj.CopyComplete
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/Infrastructure.Shared.dll
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/ref/Infrastructure.Shared.dll
+/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/Release/net5.0/Infrastructure.Shared.pdb

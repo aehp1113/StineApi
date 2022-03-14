@@ -1,0 +1,14 @@
+/Users/lfc/Documents/Publish/WebApi
+/Users/lfc/Documents/Publish/appsettings.Development.json
+/Users/lfc/Documents/Publish/appsettings.json
+/Users/lfc/Documents/Publish/WebApi.dll
+/Users/lfc/Documents/Publish/WebApi.deps.json
+/Users/lfc/Documents/Publish/WebApi.runtimeconfig.json
+/Users/lfc/Documents/Publish/WebApi.pdb
+/Users/lfc/Documents/Publish/Newtonsoft.Json.dll
+/Users/lfc/Documents/Publish/Application.dll
+/Users/lfc/Documents/Publish/Domain.dll
+/Users/lfc/Documents/Publish/Infrastructure.Shared.dll
+/Users/lfc/Documents/Publish/Infrastructure.Shared.pdb
+/Users/lfc/Documents/Publish/Application.pdb
+/Users/lfc/Documents/Publish/Domain.pdb

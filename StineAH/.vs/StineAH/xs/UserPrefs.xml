@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{0A35AB9D-5FF7-4363-94C8-43523FA08236}|Default">
+  <MonoDevelop.Ide.ItemProperties.Source.WebApi.WebApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StineAH" expanded="True" selected="True">
+            <Node name="Source" expanded="True">
+              <Node name="Core" expanded="True">
+                <Node name="Application" expanded="True">
+                  <Node name="DTOS" expanded="True" />
+                  <Node name="Services" expanded="True" />
+                </Node>
+                <Node name="Domain" expanded="True" />
+              </Node>
+              <Node name="Infrastructure" expanded="True">
+                <Node name="Infrastructure.Shared" expanded="True">
+                  <Node name="Services" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="WebApi" expanded="True">
+                <Node name="WebApi" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Properties" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Domain/Application/Application.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

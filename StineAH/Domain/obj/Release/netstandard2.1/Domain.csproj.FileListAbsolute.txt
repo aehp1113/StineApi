@@ -1,0 +1,10 @@
+/Users/lfc/Projects/StineAH/Domain/bin/Release/netstandard2.1/Domain.deps.json
+/Users/lfc/Projects/StineAH/Domain/bin/Release/netstandard2.1/Domain.dll
+/Users/lfc/Projects/StineAH/Domain/bin/Release/netstandard2.1/Domain.pdb
+/Users/lfc/Projects/StineAH/Domain/obj/Release/netstandard2.1/Domain.csproj.AssemblyReference.cache
+/Users/lfc/Projects/StineAH/Domain/obj/Release/netstandard2.1/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lfc/Projects/StineAH/Domain/obj/Release/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/lfc/Projects/StineAH/Domain/obj/Release/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/lfc/Projects/StineAH/Domain/obj/Release/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
+/Users/lfc/Projects/StineAH/Domain/obj/Release/netstandard2.1/Domain.dll
+/Users/lfc/Projects/StineAH/Domain/obj/Release/netstandard2.1/Domain.pdb

@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lfc/Projects/StineAH/Infrastructure.Shared/Infrastructure.Shared.csproj": {}
+  },
+  "projects": {
+    "/Users/lfc/Projects/StineAH/Application/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lfc/Projects/StineAH/Application/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/lfc/Projects/StineAH/Application/Application/Application.csproj",
+        "packagesPath": "/Users/lfc/.nuget/packages/",
+        "outputPath": "/Users/lfc/Projects/StineAH/Application/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lfc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lfc/Projects/StineAH/Domain/Domain.csproj": {
+                "projectPath": "/Users/lfc/Projects/StineAH/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lfc/Projects/StineAH/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lfc/Projects/StineAH/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/lfc/Projects/StineAH/Domain/Domain.csproj",
+        "packagesPath": "/Users/lfc/.nuget/packages/",
+        "outputPath": "/Users/lfc/Projects/StineAH/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lfc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lfc/Projects/StineAH/Infrastructure.Shared/Infrastructure.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lfc/Projects/StineAH/Infrastructure.Shared/Infrastructure.Shared.csproj",
+        "projectName": "Infrastructure.Shared",
+        "projectPath": "/Users/lfc/Projects/StineAH/Infrastructure.Shared/Infrastructure.Shared.csproj",
+        "packagesPath": "/Users/lfc/.nuget/packages/",
+        "outputPath": "/Users/lfc/Projects/StineAH/Infrastructure.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lfc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/lfc/Projects/StineAH/Application/Application/Application.csproj": {
+                "projectPath": "/Users/lfc/Projects/StineAH/Application/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
